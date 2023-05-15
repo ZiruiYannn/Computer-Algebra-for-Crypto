@@ -1,0 +1,1 @@
+what if c_prime is not in ]-p/2,p/2[ (haven't done this part yet) 
