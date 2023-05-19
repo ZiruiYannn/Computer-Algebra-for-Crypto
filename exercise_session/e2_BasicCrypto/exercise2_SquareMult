@@ -1,0 +1,9 @@
+//implement SquareMult (compute b=a^n with finite field elmt a using the square and multiple approach)
+
+SquareMult:=function(a, n)
+    n_seq:=Intseq(n, 2);
+    while n ne 1 do
+
+    end while;
+    return b;
+end function;
