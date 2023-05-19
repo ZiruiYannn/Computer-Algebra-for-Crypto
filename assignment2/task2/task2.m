@@ -102,7 +102,7 @@ end function;
 
 /*
 //test 2.e
-//load "D:/magma/Magma/assignment2/task2/task2.m";
+//load "D:/magma/Magma/repositories/Computer-Algebra-for-Crypto/assignment2/task2/task2.m";
 eta:=10;
 gamma:=10;
 rho:=2;
@@ -171,3 +171,4 @@ print correctdec;
 mmulti;
 mm;
 mi;
+*/
